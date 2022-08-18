@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hola, che! 👋
 
 <!--
 **machinelearnear/machinelearnear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+Este repo acompaña al canal de YouTube de [*machinelearnear*](https://www.youtube.com/c/machinelearnear), un lugarcito donde nos juntamos a cranear mientras nos tomamos unos 🧉 amargos. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/machinelearnear?label=Follow&style=social)](https://twitter.com/machinelearnear)
