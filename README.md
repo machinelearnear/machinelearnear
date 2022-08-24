@@ -4,7 +4,7 @@
 **machinelearnear/machinelearnear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Este repo acompaña al canal de YouTube de [*machinelearnear*](https://www.youtube.com/c/machinelearnear), un lugarcito donde nos juntamos a cranear mientras nos tomamos unos 🧉 amargos. 
+Este repo acompaña al canal de YouTube de [*machinelearnear*](https://www.youtube.com/c/machinelearnear), un lugarcito donde nos juntamos a cranear mientras nos tomamos unos 🧉 amargos. Los repos estan en ingles la mayoria simplemente porque me pintó, no mucho mas! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
